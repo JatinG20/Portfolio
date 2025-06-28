@@ -1,3 +1,2 @@
 # Personal-Portfolio
-this is my personal portfolio website. doesn't contain much of content.
-whatever you think is good.
+this is my 2021 personal portfolio website, when i tried making it. doesn't contain much of content.
